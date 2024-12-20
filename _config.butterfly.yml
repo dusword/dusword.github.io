@@ -287,7 +287,7 @@ aside:
       link: https://github.com/dusword
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: "问题反馈 773983534@qq.com"
   card_recent_post:
     enable: true
     # If set 0 will show all
