@@ -55,7 +55,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /images/avatar.jpg
   effect: false
 
 # Disable all banner images
