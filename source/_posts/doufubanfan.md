@@ -4,13 +4,15 @@ tags:
   - 拌饭
   - 豆腐
   - 辣
+  - 简单
 categories:
   - 菜谱
+  - 简单
 keywords:
   - 辣
   - 豆腐
   - 拌饭
-description: 香辣豆腐拌饭的
+description: 香辣豆腐拌饭的做法
 date: 2024-12-26 17:53:41
 updated: 2024-12-26 17:53:41
 ---
