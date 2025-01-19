@@ -122,3 +122,4 @@ B -- 否 --> D[结果2]
 
 ==这段文本将被高亮==
 
+{% post_link 'foods/doufubanfan' '跳转到豆腐拌饭'%}
