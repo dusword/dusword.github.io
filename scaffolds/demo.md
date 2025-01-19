@@ -123,3 +123,9 @@ B -- 否 --> D[结果2]
 ==这段文本将被高亮==
 
 {% post_link 'foods/doufubanfan' '跳转到豆腐拌饭'%}
+
+### 在指定路径下新建文章
+
+```shell
+hexo n -p post dir/post1
+```
